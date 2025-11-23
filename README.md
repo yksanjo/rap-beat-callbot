@@ -1,5 +1,9 @@
 # Rap Beat Call Bot 🎵📞
 
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/rap-beat-callbot?style=social)](https://github.com/yksanjo/rap-beat-callbot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/rap-beat-callbot.svg)](https://github.com/yksanjo/rap-beat-callbot/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/rap-beat-callbot.svg)](https://github.com/yksanjo/rap-beat-callbot/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/rap-beat-callbot.svg)](https://github.com/yksanjo/rap-beat-callbot/commits/main)
+
+
 A voice-enabled AI call bot that helps rappers create custom beats using Soundraw API. Supports both **inbound** (users call in) and **outbound** (bot calls users) calling.
 
 ## Features
